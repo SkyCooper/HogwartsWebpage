@@ -4,7 +4,7 @@
 ### Check The Live Website ➡️ [Live Website](https://skycooper.github.io/HogwartsWebpage/)
 
 ### Animation of the Website
-![image](https://github.com/SkyCooper/bootstrapWeb/blob/main/CooperPage.gif)
+![image](https://github.com/SkyCooper/HogwartsWebpage/blob/main/Hogwarts.gif)
 
 ### Visualization of the Website
 ![image](https://user-images.githubusercontent.com/106506769/192143260-4252cef1-2b22-493b-aaf9-df47f56f9df9.png)
