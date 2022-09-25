@@ -110,3 +110,17 @@ color: black;
 transform: scale(1.2);
 font-size: 1.4rem;
 }
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.img-thumbnail {
+    width: 100%;
+    height: 12vw;
+    object-fit: cover;
+}
+
+
