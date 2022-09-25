@@ -15,6 +15,14 @@
 ![image](https://user-images.githubusercontent.com/106506769/192144289-fa9a2e78-3c73-43d8-8bfa-15589ee90b95.png)
 ![image](https://user-images.githubusercontent.com/106506769/192144336-57d74cc6-51d3-4952-87c1-525b5ef10a10.png)
 
+## Project Skeleton 
+
+|----Hogwarts
+        |----index.html  
+        |----style.css   
+        |----img
+        |----Hogwarts.gif
+|----readme.md            
 
 
 ### Overview
