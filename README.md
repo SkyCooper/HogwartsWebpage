@@ -23,8 +23,7 @@
         |----style.css   
         |----img
         |----Hogwarts.gif
-        
-|----readme.md            
+        |----readme.md            
 
 
 ### Overview
