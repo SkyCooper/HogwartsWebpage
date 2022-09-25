@@ -18,10 +18,12 @@
 ## Project Skeleton 
 
 |----Hogwarts
+
         |----index.html  
         |----style.css   
         |----img
         |----Hogwarts.gif
+        
 |----readme.md            
 
 
